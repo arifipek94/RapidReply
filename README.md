@@ -29,22 +29,29 @@ Built from scratch by [@arifipek94](https://github.com/arifipek94) (a.k.a. *mehm
 Here are some screenshots demonstrating the RapidReply script in action:
 
 **RapidReply Button:**
-*The main RapidReply button, accessible on the page.*
+*The main RapidReply button, accessible on the page with minimal design.*
+![RapidReply Button](images/Screenshot%202025-06-20%20184642.png)
+
+**RapidReply Right Click Menu:**
+*Right-clicking the RapidReply button reveals options like "Edit Templates" and "Copy History."*
+![RapidReply Context Menu](images/Screenshot%202025-06-20%20184722.png)
 
 **Copying Text with RapidReply:**
 *Demonstrates how text is copied using the script.*
-
-**RapidReply Context Menu:**
-*Right-clicking the RapidReply button reveals options like "Edit Templates" and "Copy History."*
+! [Copying Text](images/Screenshot%202025-06-20%20192235.png)
 
 **Copy History View:**
 *A view of the automatically tracked copy history, showing recent copied texts with timestamps.*
+![Copy History View](images/Screenshot%202025-06-20%20192303.png)
 
 **Editing a New Template:**
 *Shows the interface for creating or editing a new template, named "New Template" in this example.*
+![Editing New Template](images/Screenshot%202025-06-20%20192327.png)
+
 
 **Loading an Existing Template:**
 *Demonstrates selecting and loading an existing template, such as "Test."*
+![Loading Existing Template](images/Screenshot%202025-06-20%20192347.png)
 
 -----
 
