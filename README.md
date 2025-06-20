@@ -32,7 +32,7 @@ Here are some screenshots demonstrating the RapidReply script in action:
 
 **Copying Text with RapidReply:**
 *Demonstrates how text is copied using the script.*
-! [Copying Text](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20192235.png))
+![Copying Text](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20192235.png))
 
 **Copy History View:**
 *A view of the automatically tracked copy history, showing recent copied texts with timestamps.*
@@ -52,7 +52,7 @@ Here are some screenshots demonstrating the RapidReply script in action:
 
 1.  Install [Tampermonkey](https://www.tampermonkey.net/) on your browser (Chrome, Firefox, Edge, etc.)
 2.  Open Tampermonkey → **Create a new script**
-3.  Paste the contents of [`rapid-reply.user.js`](https://www.google.com/search?q=./rapid-reply.user.js)
+3.  Paste the contents of [\`rapid-reply.user.js`](https://www.google.com/search?q=./rapid-reply.user.js)
 4.  Save the script
 5.  Visit [https://issues.amazon.com](https://issues.amazon.com)
 6.  Use the floating **RapidReply** button to start copying and managing replies\!
@@ -85,16 +85,9 @@ Feel free to fork, improve, or integrate it into your own workflows.
 
 ## 📝 License
 
-This project is released under the [GNU General Public License v3.0](https://www.google.com/search?q=LICENSE).
+This project is released under the [GNU General Public License v3.0](LICENSE).
 
 -----
 
 > ⚠️ This script is designed for internal tooling (like `issues.amazon.com`) — you may need to modify the `@match` pattern to use it on other platforms.
 
------
-
-**Important Notes for your GitHub Repository:**
-
-1.  **Upload the images to your repository:** Make sure to upload the screenshots you provided (e.g., `Screenshot 2025-06-20 184642.png`, `Screenshot 2025-06-20 192235.png`, etc.) to your GitHub repository. A common practice is to create an `images` or `assets` folder and put them there, then update the image paths in the README accordingly (e.g., `images/Screenshot 2025-06-20 184642.png`). For now, I've used the direct filenames you provided in your prompt.
-2.  **Replace the GIF placeholder:** You still have the line `https://user-images.githubusercontent.com/yourusername/demo.gif` in your original README. I've removed it and replaced it with individual image embeds. If you create a GIF in the future, you can re-add it or replace the image section with it.
-3.  **File Naming:** Ensure the image filenames in the README exactly match the filenames you upload to your GitHub repository. If you rename them (e.g., to something more descriptive like `rapidreply-button.png`), remember to update the `![Alt Text](filename.png)` links in the README.
