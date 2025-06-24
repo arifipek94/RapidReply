@@ -23,9 +23,9 @@ Built from scratch by [@arifipek94](https://github.com/arifipek94) (a.k.a. *mehm
 
 Here are some screenshots demonstrating the RapidReply script in action:
 **RapidReply Dynamic Button:**
- ![RapidReply Dynamic Button](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20184642.png)
 *The main, dynamic RapidReply button, accessible on the page with minimal design, hold click to drag anywhere on the screen.*
-
+ ![RapidReply Dynamic Button](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20184642.png)
+ 
 **RapidReply Right Click Menu:**
 *Right-clicking the RapidReply button reveals options like "Edit Templates" and "Copy History."*
 ![RapidReply Context Menu](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20184722.png)
