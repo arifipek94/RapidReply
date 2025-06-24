@@ -24,6 +24,7 @@ Built from scratch by [@arifipek94](https://github.com/arifipek94) (a.k.a. *mehm
 Here are some screenshots demonstrating the RapidReply script in action:
 **RapidReply Dynamic Button:**
 *The main, dynamic RapidReply button, accessible on the page with minimal design, hold click to drag anywhere on the screen.*
+
 ![RapidReply Dynamic Button](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20184642.png)
     
 **RapidReply Right Click Menu:**
@@ -32,6 +33,7 @@ Here are some screenshots demonstrating the RapidReply script in action:
    
 **Copying Text with RapidReply:**
 *Demonstrates how text is copied using the script.*
+
 ![Copying Text](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20192235.png)
    
 **Copy History View:**
