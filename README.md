@@ -24,7 +24,6 @@ Here are some screenshots demonstrating the RapidReply script in action:
 <div align="center">
 **RapidReply Button:**
 *The main RapidReply button, accessible on the page with minimal design.*
-![RapidReply Button](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20184642.png)
 
 **RapidReply Right Click Menu:**
 *Right-clicking the RapidReply button reveals options like "Edit Templates" and "Copy History."*
