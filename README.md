@@ -24,8 +24,7 @@ Built from scratch by [@arifipek94](https://github.com/arifipek94) (a.k.a. *mehm
 Here are some screenshots demonstrating the RapidReply script in action:
 **RapidReply Dynamic Button:**
  ![RapidReply Dynamic Button](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20184642.png)
- 
-*The main RapidReply button, accessible on the page with minimal design.*
+*The main, dynamic RapidReply button, accessible on the page with minimal design, hold click to drag anywhere on the screen.*
 
 **RapidReply Right Click Menu:**
 *Right-clicking the RapidReply button reveals options like "Edit Templates" and "Copy History."*
@@ -33,11 +32,11 @@ Here are some screenshots demonstrating the RapidReply script in action:
 
 **Copying Text with RapidReply:**
 *Demonstrates how text is copied using the script.*
-![Copying Text](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20192235.png))
+![Copying Text](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20192235.png)
 
 **Copy History View:**
 *A view of the automatically tracked copy history, showing recent copied texts with timestamps.*
-![Copy History View](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20192303.png))
+![Copy History View](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20192303.png)
 
 **Editing a New Template:**
 *Shows the interface for creating or editing a new template, named "New Template" in this example.*
