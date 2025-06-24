@@ -15,14 +15,16 @@ Built from scratch by [@arifipek94](https://github.com/arifipek94) (a.k.a. *mehm
   - 📎 **Clipboard Integration** – Instantly copies selected templates or text
   - 🪟 **Floating UI** – Lightweight, draggable interface for quick access
   - 🧠 **Local Persistence** – Stores data using Tampermonkey's internal storage (`GM_*` APIs)
-
+  - 
+<div align="center">
 -----
 
 ## 📷 Demo
 
 Here are some screenshots demonstrating the RapidReply script in action:
-<div align="center">
-**RapidReply Button:**
+**RapidReply Dynamic Button:**
+ ![RapidReply Dynamic Button](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20184642.png)
+ 
 *The main RapidReply button, accessible on the page with minimal design.*
 
 **RapidReply Right Click Menu:**
@@ -45,7 +47,8 @@ Here are some screenshots demonstrating the RapidReply script in action:
 *Demonstrates selecting and loading an existing template, such as "Test."*
 ![Loading Existing Template](https://raw.githubusercontent.com/arifipek94/RapidReply/refs/heads/main/Screenshot%202025-06-20%20192347.png)
 
------</div>
+-----
+</div>
 
 ## 🛠 Installation
 
