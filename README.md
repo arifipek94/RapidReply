@@ -17,7 +17,7 @@ Built from scratch by [@arifipek94](https://github.com/arifipek94) (a.k.a. *mehm
   - 🧠 **Local Persistence** – Stores data using Tampermonkey's internal storage (`GM_*` APIs)
   - 
 <div align="center">
------
+
 
 ## 📷 Demo
 
